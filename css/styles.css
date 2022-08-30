@@ -102,6 +102,7 @@ p{
 a {
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
     margin: 10px 20px;
 }
 
@@ -126,7 +127,7 @@ hr {
 .copyright{
         color: #EAF6F6;
         font-size: 0.75rem;
-        padding: 20px none;
+        padding: 20px 0;
         }
 
 .btn {
